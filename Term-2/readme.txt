@@ -1,1 +1,0 @@
-I worked with some Machine Learning methods [EM algorithm especially] on images [segmentation and deblurring] and on time series [EM for Gaussian Processes, i.e., clustering of time series].
