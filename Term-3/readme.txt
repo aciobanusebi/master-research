@@ -1,0 +1,1 @@
+I tried to understand a relatively new article 'Deep Gaussian Mixture Models' [https://arxiv.org/abs/1711.06929], tried to implement the algorithm described there and prepared a presentation on it with details.

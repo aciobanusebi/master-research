@@ -1,0 +1,1 @@
+I applied some Machine Learning models [linear regression, neural networks, ARIMA] on a real world problem: Forecasting natural gas consumption.
