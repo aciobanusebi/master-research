@@ -1,3 +1,5 @@
-# master-research
+# Master Research
 
-Fii, UAIC, 2017-2019, Iasi, Romania
+FII, UAIC, 2017-2019, Iasi, Romania
+
+Sebastian Ciobanu
