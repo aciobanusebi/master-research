@@ -6,5 +6,5 @@
 
 **Links of SNCSSM**: 
 - https://www.math.uaic.ro/~sncssm
-- https://www.math.uaic.ro/~sncssm/program.html
+- https://www.math.uaic.ro/~sncssm/sncssm2019/prezentare2019.htm
 
