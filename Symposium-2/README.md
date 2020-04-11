@@ -9,3 +9,4 @@
 **Links of FROM**: 
 - http://from2019.projects.uvt.ro/
 - http://from2019.projects.uvt.ro/wp-content/uploads/2019/10/FROM2019-program2.html
+- http://from2019.projects.uvt.ro/wp-content/uploads/2019/09/paper-18-ciobanu.pdf
